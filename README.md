@@ -1,7 +1,7 @@
 # Build Openwrt firmware with ease
 Scripts for building openwrt router box firmware.
 
-[下载最新固件](https://github.com/riverscn/build-openwrt-firmware/releases)
+[下载最新固件](https://github.com/Maxshion/build-openwrt-firmware/releases)
 
 [使用方法及相关测试](https://blog.lishun.me/openwrt-mega-post)
 
@@ -25,7 +25,7 @@ You can [add your own target config](configs).
 * Enable Flow Offloading and Full Cone NAT by default.
 * Enable WiFi by default. You can turn it off to achieve lower temperature.
 * Enable USB Ethernet and Storage support.
-* You can [fork this repo](https://github.com/riverscn/build-openwrt-firmware/generate) and make your own [package config](configs). It's very easy.
+* You can make your own [package config](configs). It's very easy.
 
 # Pre-installed packages
 
@@ -38,6 +38,7 @@ You can [add your own target config](configs).
 * luci-app-zerotier
 * luci-app-diskman
 * luci-app-udp2raw
+* luci-app-autoreboot
 
 ## Only for "with-docker" image
 
@@ -55,10 +56,6 @@ Docker makes network complex, only for advanced users!
 * luci-app-sqm
 
 # Build your own firmwares
-
-## Build online
-
-[fork this repo](https://github.com/riverscn/build-openwrt-firmware/generate) and create Github Actions workflow!
 
 ## Build locally
 
