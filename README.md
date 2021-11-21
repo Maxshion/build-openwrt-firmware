@@ -5,8 +5,8 @@ Scripts for building openwrt router box firmware.
 
 [使用方法及相关测试](https://blog.lishun.me/openwrt-mega-post)
 
-[![Build OpenWrt Firmware](https://github.com/riverscn/build-openwrt-firmware/actions/workflows/BUILD_CI.yml/badge.svg)](https://github.com/riverscn/build-openwrt-firmware/actions/workflows/BUILD_CI.yml)
-[![Build OpenWrt Firmware - Docker](https://github.com/riverscn/build-openwrt-firmware/actions/workflows/BUILD_CI_docker.yml/badge.svg)](https://github.com/riverscn/build-openwrt-firmware/actions/workflows/BUILD_CI_docker.yml)
+[![Build OpenWrt Firmware](https://github.com/Maxshion/build-openwrt-firmware/actions/workflows/BUILD_CI.yml/badge.svg)](https://github.com/Maxshion/build-openwrt-firmware/actions/workflows/BUILD_CI.yml)
+[![Build OpenWrt Firmware - Docker](https://github.com/Maxshion/build-openwrt-firmware/actions/workflows/BUILD_CI_docker.yml/badge.svg)](https://github.com/Maxshion/build-openwrt-firmware/actions/workflows/BUILD_CI_docker.yml)
 
 # Default hardware targets
 
